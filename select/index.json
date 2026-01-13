@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "プレゼント",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-01-13T09:02:00.863518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "ななひら feat. かめりあ",
+      "has_synced": false,
+      "path": "select/01_プレゼント_ななひら_feat._かめりあ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "かめりあ feat. ななひら",
+      "has_synced": false,
+      "path": "select/02_プレゼント_かめりあ_feat._ななひら.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プレゼント (feat. ななひら)",
+      "artist": "かめりあ",
+      "has_synced": false,
+      "path": "select/03_プレゼント_(feat._ななひら)_かめりあ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "かめりあ, ななひら",
+      "has_synced": false,
+      "path": "select/04_プレゼント_かめりあ,_ななひら.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "茶太",
+      "has_synced": true,
+      "path": "select/05_プレゼント_茶太.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_プレゼント_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/07_プレゼント_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/08_プレゼント_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "3B LAB.☆",
+      "has_synced": false,
+      "path": "select/09_プレゼント_3B_LAB.☆.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "Amatsuki",
+      "has_synced": true,
+      "path": "select/10_プレゼント_Amatsuki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "田村ゆかり",
+      "has_synced": false,
+      "path": "select/11_プレゼント_田村ゆかり.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "橘美也 (阿澄佳奈)",
+      "has_synced": false,
+      "path": "select/12_プレゼント_橘美也_(阿澄佳奈).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "プレゼント (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY2 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/13_プレゼント_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY2_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "玉置浩二",
+      "has_synced": false,
+      "path": "select/14_プレゼント_玉置浩二.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "プレゼント・フォー・ユー",
+      "artist": "4U",
+      "has_synced": false,
+      "path": "select/15_プレゼント・フォー・ユー_4U.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "Urashimasakatasen",
+      "has_synced": true,
+      "path": "select/16_プレゼント_Urashimasakatasen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "プレゼント",
+      "artist": "玉置浩二",
+      "has_synced": true,
+      "path": "select/17_プレゼント_玉置浩二.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プレゼント",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_プレゼント_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
